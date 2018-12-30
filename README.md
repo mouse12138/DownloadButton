@@ -1,11 +1,22 @@
 # DownloadButton
 一个下载的button
 
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+	dependencies {
+	        implementation 'com.github.mouse12138:DownloadButton:1.0.0'
+	}
+
+
 
 ![](https://i.imgur.com/s6sPwqR.gif)
 
 
-implementation 'com.github.mouse12138:DownloadButton:1.0.0'
 
 
 
