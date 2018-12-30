@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void btnClick() {
                 mDownload5.setBtnType(DownloadButton.DOWNLOAD);
+                //耗时下载
                 new Thread(new Runnable() {
                     @Override
                     public void run() {
