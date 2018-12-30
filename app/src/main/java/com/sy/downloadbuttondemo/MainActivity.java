@@ -70,8 +70,8 @@ public class MainActivity extends AppCompatActivity {
         mDownload5.setLineColor(5);
         mDownload1.setLineColor(Color.BLUE);
         mDownload2.setLineColor(Color.RED);
-        mDownload3.setLineColor(Color.YELLOW);
-        mDownload4.setLineColor(Color.GREEN);
+        mDownload3.setLineColor(Color.GREEN);
+        mDownload4.setLineColor(Color.YELLOW);
         mDownload5.setLineColor(Color.BLACK);
     }
 }
