@@ -1,5 +1,8 @@
 # DownloadButton
 一个下载的button
+
+
+![](https://i.imgur.com/s6sPwqR.gif)
     
         mDownload5.setLineColor(5);
         mDownload5.setLineColor(Color.BLUE);
