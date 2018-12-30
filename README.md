@@ -3,6 +3,10 @@
 
 
 ![](https://i.imgur.com/s6sPwqR.gif)
+
+    implementation 'com.github.mouse12138:DownloadButton:1.0.0'
+
+
     
         mDownload5.setLineColor(5);
         mDownload5.setLineColor(Color.BLUE);
